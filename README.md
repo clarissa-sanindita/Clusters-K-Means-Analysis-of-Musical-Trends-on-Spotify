@@ -49,5 +49,7 @@ The clustering analysis has provided significant insights into the types of song
 
 ## Contributing
 Clarissa Sanindita R
+
 Cheria Rindang Tri Andini
+
 Alviatul Nazila
