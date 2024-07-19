@@ -25,17 +25,18 @@ Our clustering analysis results are presented through various visualizations and
 ### Cluster Analysis Visualizations
 - **Silhouette Analysis:** We used Silhouette analysis to find the optimal cluster count, confirming that 3 and 6 clusters provide clear separations.
   ![Silhouette Analysis](Images/silhouette_score.png)
+  
 
 - **2017 Cluster Distributions:** Shows the distribution of attributes across clusters for the year 2017.
-  ![2017 Cluster Distributions](images/2017.png)
+  ![2017 Cluster Distributions](Images/2017.png)
 
 - **2018 Cluster Distributions:** Similar analysis for the year 2018.
-  ![2018 Cluster Distributions](images/2018.png)
+  ![2018 Cluster Distributions](Images/2018.png)
 
 
 ### Genre Distribution
 The genre distribution for the analyzed top songs highlights the diversity of music preferences.
-![Top 10 Genres in Spotify Top 100 Songs](images/top_10_genre.png)
+![Top 10 Genres in Spotify Top 100 Songs](Images/top_10_genre.png)
 
 ## Conclusion
 The clustering analysis has provided significant insights into the types of songs that trend on Spotify, indicating specific attributes that contribute to their success. This analysis can help artists and producers tailor their music to align with prevailing trends and audience preferences.
