@@ -26,7 +26,8 @@ The K-Means Clustering algorithm is employed to group songs based on similarity 
 Our clustering analysis results are presented through various visualizations and summarized in tabular form, highlighting the attribute distribution across the clusters.
 
 ### Cluster Analysis Visualizations
-- **Silhouette Analysis:** We used Silhouette analysis to find the optimal cluster count, confirming that 3 and 6 clusters provide clear separations.
+- **Silhouette Analysis:** We used Silhouette analysis to find the optimal cluster count, confirming that 6 clusters provide clear separations.
+  
   ![Silhouette Analysis](Images/silhouette_score.png)
   
 
