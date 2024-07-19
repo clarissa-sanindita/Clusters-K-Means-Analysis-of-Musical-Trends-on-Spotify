@@ -6,6 +6,9 @@ This project is part of the Data Mining course, focusing on clustering analysis 
 ## Data Source
 We utilize the "Top Hits Spotify from 2000-2019" dataset from Kaggle, which contains over 2000 tracks with detailed attributes including duration, explicit content, year, popularity, and musical features like danceability and energy. The dataset is publicly accessible here: [Top Hits Spotify from 2000-2019](https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-2000-2019).
 
+The genre distribution for the analyzed top songs highlights the diversity of music preferences.
+![Top 10 Genres in Spotify Top 100 Songs](Images/top_10_genre.png)
+
 ## Data Processing
 ### Data Cleaning
 The initial data processing steps involve identifying and removing any inaccurate or duplicate data using methods such as `isnull()` and `drop_duplicates()`.
@@ -33,10 +36,6 @@ Our clustering analysis results are presented through various visualizations and
 - **2018 Cluster Distributions:** Similar analysis for the year 2018.
   ![2018 Cluster Distributions](Images/2018.png)
 
-
-### Genre Distribution
-The genre distribution for the analyzed top songs highlights the diversity of music preferences.
-![Top 10 Genres in Spotify Top 100 Songs](Images/top_10_genre.png)
 
 ## Conclusion
 The clustering analysis has provided significant insights into the types of songs that trend on Spotify, indicating specific attributes that contribute to their success. This analysis can help artists and producers tailor their music to align with prevailing trends and audience preferences.
